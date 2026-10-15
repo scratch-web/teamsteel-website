@@ -15,6 +15,8 @@ Static content and browser-based interactions do not inherently require a backen
 
 To review or continue developing the website with ChatGPT, download the repository as a ZIP using **Code → Download ZIP** on GitHub, then upload it to ChatGPT. Ask ChatGPT to review the existing code before making changes.
 
+You can also open index.html locally to see the website for yourself.
+
 
 ## Notes
 
